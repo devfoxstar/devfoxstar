@@ -8,3 +8,4 @@
 
 * 블로그 : https://devfoxstar.github.io/
 * 사이트 : http://foxstar.me/
+* 이메일 : devfoxstar@gmail.com

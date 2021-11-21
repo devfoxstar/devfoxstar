@@ -2,6 +2,7 @@
 
 * Java (Spring, Spring Boot)
 * ASP.NET (MVC, Core)
+* Python
 * React
 
 #### 포트폴리오

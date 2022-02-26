@@ -8,5 +8,5 @@
 #### 포트폴리오
 
 * 블로그 : https://devfoxstar.github.io/
-* 사이트 : http://foxstar.me/
 * 이메일 : devfoxstar@gmail.com
+* 사이트 : http://foxstar.me/

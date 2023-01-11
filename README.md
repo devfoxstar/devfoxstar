@@ -1,7 +1,7 @@
 #### 개발자 여우별의 GitHub입니다.
 
-* Java (Spring, Spring Boot)
 * Kotlin (Spring Boot)
+* * Java (Spring, Spring Boot)
 * ASP.NET (MVC, Core)
 
 #### 포트폴리오
